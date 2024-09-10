@@ -1,3 +1,5 @@
+// Leo Collazo
+// 5611661
 #include <stdio.h>
 
 #include <math.h>
